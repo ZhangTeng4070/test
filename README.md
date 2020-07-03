@@ -207,7 +207,7 @@ minio:
   oss:
     endpoint: http://oss-cn-shanghai.aliyuncs.com
     accessKey: XXXX
-    secretKey: YSe1GEBFfH3YIRTZoWCLkhuadviTfg
+    secretKey: YSe1GEBFfH3YIxxxxxxx
   minio:
     endpoint: http://127.0.0.1:9000
     accessKey: AKIAIOSFODNN7EXAMPLE
